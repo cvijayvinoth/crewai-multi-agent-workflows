@@ -1,0 +1,4 @@
+Acme Tech Editorial Rules:
+1. Never use buzzwords like "revolutionary", "game-changer", or "delve".
+2. Always include a concrete metric or company name in every bullet point.
+3. Keep the tone objective, analytical, and tailored for backend engineers.
